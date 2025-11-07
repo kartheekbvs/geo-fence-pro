@@ -1,0 +1,7 @@
+{
+  "name": "Geo-Fence Pro",
+  "description": "A web application to create, manage, and monitor circular geo-fences. It tracks your device's location in real-time, displays it on a map, and logs enter/exit events for defined zones.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
